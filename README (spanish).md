@@ -23,16 +23,23 @@ Asi que, te estaras preguntando:
 ## Antes de empezar
 **¿Qué es la Accesibilidad Web?** Es la práctica continua de asegurarnos que todo lo que creamos para la web se puede usar, interpretar y operar por una variedad de personas en una variedad de situaciones.
 
+**¿Por que es importante la accesibilidad?**
+
+
 **¿Cuales son los beneficios de tomar en cuenta la accesibilidad en mi pagina web o en mi portafolio?**
 - Al utilizar HTML Semantico, esto mejora el SEO de dicha pagina web: lo cual significa, que apareceras en mayores resultados.
 -	Para incluir a personas en situaciones de discapacidad.
 -	Para mejorar la usabilidad de nuestros proyectos.
 -	Porque en algunos lugares es la ley.
-o	En Estados Unidos hay una ley que se llama “American’s with Disabilities Act (ADA)” en la cual no importa si tu creaste el producto fuera de estados unidos, pero si tus clientes están en EE.UU, ELLOS TIENEN el derecho a que todos los productos, servicios que utilicen sean accesibles.  
-o	Caso de Dominos Pizza que fue multado por su sitio web inaccesible https://www.cnbc.com/2019/10/07/dominos-supreme-court.html
-o	En LATAM el 55% de países tiene una ley, norma una guía que es específicamente para la accesibilidad web.
-o	El resto de leyes no tienen normas especificas para la web, pero si tienen normas y leyes para personas en situaciones de discapacidad. 
-	Es importante que sepas cuales leyes son las que te aplican a ti, a tus productos para protegerte y para proteger tus empresas. 
+    - En Estados Unidos hay una ley que se llama: _“American’s with Disabilities Act (ADA)”_ en la cual, no importa si tu creaste el producto fuera de Estados Unidos, pero si los consumidores de tu producto están en EE.UU, ELLOS TIENEN el derecho a que todos los productos, servicios que utilicen sean accesibles.  
+        -	Caso de Domino's Pizza que fue multado por su sitio web inaccesible [Lee un poco más sobre el caso aquí (INGLES)](https://www.cnbc.com/2019/10/07/dominos-supreme-court.html) 
+    - En LATAM el 55% de países tiene una ley, norma una guía que es específicamente para la accesibilidad web.
+    - El resto de leyes no tienen normas especificas para la web, pero si tienen normas y leyes para personas en situaciones de discapacidad. 
+- Es importante que sepas cuales leyes son las que te aplican a ti, a tus productos para protegerte y para proteger tus empresas. 
+
+**¿Por que es importante la accesibilidad?**
+
+
 ---
 ## The more you know... 
 Ahora que sabes los beneficios que hay por tener accesibilidad web. Es momento que conozcas algunas organizaciones e instituciones que velan por el cumplimiento de leyes y normas de accesibilidad para crear un mundo más seguro.
