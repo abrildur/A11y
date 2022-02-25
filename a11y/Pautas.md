@@ -4,13 +4,17 @@ Ahora que sabes los beneficios que hay por tener accesibilidad web. Es momento q
 
 ## ¿Qué es WCAG?
 
-En ingles son las Web  Content Accesibility Guidelines o en español las pautas de accesibilidad para el contenido web. 
+En inglés son las _Web  Content Accesibility Guidelines_ o en español, las "Pautas de Accesibilidad para el contenido Web". 
 -	Un rango de recomendaciones para crear contenido web mas accesible.
-Historia de WCAG
-Son creados por la W3C (World Wide Web Consortium), ellos son los creadores de los estándares que usamos para construir la web (HTML, CSS) y dentro de esta organización hay diferentes iniciativas para enfocarse en temas específicos como el WAI – Web Accessibility Initiative. Iniciativa dentro W3C cuya meta es asegurar la accesibilidad web. Es la guía que nos ayuda a implementar la accesibilidad web.
-WCAG 2.0 lo cual nos asegura que a medida nuestras tecnologías van creciendo, el estándar con la especificación tambien va creciendo con ellos. Dentro de WCAG hay 12 criterios de conformidad que debemos respetar y cada criterio se divide en tres niveles. Los tres niveles nos ayudan a escoger que tanta inversión le queremos poner a la accesibilidad web.
-El nivel A. es el nivel mas bajo. Nos garantiza una accesibilidad básica para nuestros productos.
-Nivel AA intermedio y Nivel AAA mas alto, este lo usa comúnmente empresas que trabajan con gobiernos o universidades para asegurarse que su contenido que es fundamental para el publico, pueda ser accedido por cualquier persona.
+
+## Historia de WCAG
+Son creados por la W3C (_World Wide Web Consortium)_, ellos son los creadores de los estándares que usamos para construir la web (HTML, CSS) y dentro de esta organización hay diferentes iniciativas para enfocarse en temas específicos como el _WAI – Web Accessibility Initiative_. Iniciativa dentro W3C cuya meta es asegurar la accesibilidad web. Es la guía que nos ayuda a implementar la accesibilidad web.
+
+**WCAG 2.0** lo cual nos asegura que a medida nuestras tecnologías van creciendo, el estándar con la especificación tambien va creciendo con ellos. Dentro de WCAG hay 12 criterios de conformidad que debemos respetar y cada criterio se divide en tres niveles. Los tres niveles nos ayudan a escoger que tanta inversión le queremos poner a la accesibilidad web.
+
+	- El nivel A. es el nivel mas bajo. Nos garantiza una accesibilidad básica para nuestros productos.
+	- Nivel AA es el nivel intermedio
+	- Nivel AAA es el nivel más alto. Este nivel lo utilizan comúnmente empresas que trabajan con gobiernos o universidades para asegurarse que su contenido que es fundamental para el publico, pueda ser accedido por cualquier persona.
 
 Las pautas de accesibilidad de contenido web nos guían al momento de implementar la accesibilidad web. Las podemos usar durante todo el proceso de desarrollo de producto, desde que nace la idea para lo que queremos construir, durante el diseño de los estilos y las interfaces, hasta cuando escribimos código y hacemos pruebas de calidad. Nos señalan los puntos importantes para tener en cuenta con eso podemos construir páginas, productos y aplicaciones que le funcionan a todos nuestros usuarios sin importar su capacidades, dispositivos o preferencias.
 
