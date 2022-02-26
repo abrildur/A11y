@@ -1,11 +1,18 @@
 # What is Azure?
 
+> If you still don't have your Azure Account, please [see the Create an Azure account learning module](https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/).
+
 In this module we are going to learn about:
 - Azure
 - What can I do with Azure?
 - What are public, private and hybrid cloud?
 - Cloud model comparasion
--
+- Azure Portal
+- Azure Marketplace
+- Azure Services
+- What does it include de Azure Free Account?
+- What is the Azure free student account?
+- What is the Learn sandbox?
 
 Azure is a continually expanding set of cloud services that help your organization meet your current and future business challenges. Azure gives you the freedom to build, manage, and deploy applications on a massive global network using your favorite tools and frameworks.
 
@@ -88,12 +95,13 @@ The Azure free student account offer includes:
 - Free access to certain Azure services for 12 months.
 - A credit to use in the first 12 months.
 - Free access to certain software developer tools.
-The Azure free student account is an offer for students that gives $100 credit and free developer tools. Also, you can sign up without a credit card.
+- [The Azure free student account](https://azure.microsoft.com/free/students/) is an offer for students that gives $100 credit and free developer tools. Also, you can sign up without a credit card.
 
 ## What is the Learn sandbox?
 Many of the Learn exercises use a technology called the sandbox, which creates a temporary subscription that's added to your Azure account. This temporary subscription allows you to create Azure resources for the duration of a Learn module. Learn automatically cleans up the temporary resources for you after you've completed the module.
 
 When you're completing a Learn module, you're welcome to use your personal subscription to complete the exercises in a module. The sandbox is the preferred method to use though, because it allows you to create and test Azure resources at no cost to you.
+
 ### In case you would like to know more...
 
 Here are some powerful resources if you would like to know more about Azure. 
