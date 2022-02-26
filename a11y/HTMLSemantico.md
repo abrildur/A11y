@@ -1,6 +1,6 @@
 # HTML Semantico
 
-Este concepto es basicamente muy importante para nosotros los desarrolladores, precisamente porque muy pronto estaras utilizando en tu vida profesional, ciertas etiquetas frecuentes de HTML 
+Este concepto es basicamente muy importante para nosotros los desarrolladores, precisamente porque muy pronto estaras utilizando en tu vida profesional, ciertas etiquetas frecuentes de HTML. Es una de las herramientas mas poderosas cuando queremos implementar accesibilidad en nuestra pagina web.
 
 ´´´´
 <div>
@@ -16,7 +16,8 @@ Esto nos va a ayudar:
 - A que tu sitio web va a ser accesible
     - Bing y Google, lo que hacen es revisar nuestra pagina web, revisa nuestro contenido detalladamente y si nosotros tenemos muchos divs, el navegador va a decir "no significas nada, _div_". Por eso es importante tener HTML Semantico para que los navegadores entiendan el contenido del mismo.
 - Mejora tu posicionamiento SEO
-- Código más claro.
+- A tener un código más claro.
 
+Todas estas etiquetas las podemos hacer con _divs_ pero lo ideal es utilizar las etiquetas correspondientes 
 
 https://platzi.com/clases/2467-frontend-developer/40832-que-es-html-semantico/

@@ -48,3 +48,4 @@ Con amor desde México  ♥️
 - [Microsoft - Accessibility (INGLES)](https://www.microsoft.com/en-us/accessibility)
 - [Organización Mundial de la Salud - Discapacidad y salud (INGLES)](https://www.who.int/news-room/fact-sheets/detail/disability-and-health)
 - [Assistive Technology Industry Association (INGLES)](https://www.atia.org/at-resources/what-is-at/#what-is-assistive-technology)
+- [Microsoft Learn - Discuss different types of cloud models](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/types-of-cloud-computing)
