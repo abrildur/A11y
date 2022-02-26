@@ -32,9 +32,38 @@ ARIA tiene tres atributos especiales que a podemos agregar a HTML.
     ```
 - **Estados**
     - Comunican estados y cambios de estados en elementos que se suelen comunicar visualmente.
-        - Digamos que tenemos un checkbox, si el checkbox esta tick esa opcion esta seleccionada pero una persona que utiliza el lector de pantalla no podra ver esa opcion de checkbox. Por eso, tenemos que comunicar los
+        - Digamos que tenemos un checkbox, si el checkbox esta tick esa opcion esta seleccionada pero una persona que utiliza el lector de pantalla no podra ver esa opcion de checkbox. Por eso, tenemos que comunicar los diferentes estados que tengamos en nuestras aplicaciones para poder ofrecer una experiencia igual o parecida a una persona usando el lector de pantalla.
+    - Los lectores de pantalla leen todos los elementos que tenemos en nuestro HTML incluyendo los que tenemos escondidos, por lo cual hay que usar aria-hidden para que de esta manera el lector de pantalla tenga la misma experiencia que tiene las demas personas.
 
-
+  ```HTML
+        <ul class ="project-container">
+            <li>
+                <button>
+                    <img src="images/project1.png" class="Project Project 1" alt="My first project"/>
+                </button>
+            </li>
+            <li>
+                 <button>
+                    <img src="images/project2.png" class="Project Project 1" alt="My second project"/>
+                </button>
+            </li>
+            <li>
+                 <button>
+                    <img src="images/project3.png" class="Project Project 3" alt="My third project">
+                </button>
+            </li>
+            <li  aria-hidden="true">
+                 <button>
+                    <img src="images/project4.png" class="Project Project 4" alt="My fourth project"/>
+                </button>
+            </li>
+            <li aria-hidden="true">
+                 <button>
+                    <img src="images/project5.png" class="Project Project 5" alt="My fifth project"/>
+                </button>
+            </li>
+        </ul>
+    ```
 ---
 
 ## Bibliographic references
