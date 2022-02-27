@@ -1,18 +1,22 @@
-# Crea tu propio portafolio accesible y despliegalo a la nube!
+# Build your own accessible portfolio and deploy it to the cloud!
 
-Ahora que ya aprendiste muchisimo sobre accesibilidad: sus conceptos basicos, tips de diseño inclusivo, HTML semantico, ARIA y tecnologias asistivas. 
+Now that you've learned about accessibility, including its basic concepts, inclusive design tips, semantic HTML, ARIA, and assistive technologies. The time has come to put all the knowledge you gained so far into practice ⌛✨.
 
-¡Es momento de implementar todo lo que aprendiste en lecciones anteriores!
-![Amazing gif](https://media.giphy.com/media/uQkKavfX6TER2/giphy.gif)
+![Kirby writing super fast gif](https://media.giphy.com/media/uQkKavfX6TER2/giphy.gif)
 
 ---
 
-## Mi portafolio
-Aqui en este repositorio encontraras una plantilla ya hecha para tus proyectos y tus redes sociales.
+## My portafolio
+Aqui en este repositorio encontraras una plantilla en ya hecha para tus proyectos y tus redes sociales desarrollada con HTML, CSS y JavaScript.
 
-¿Entonces, si ya esta todo hecho, ¿Que es lo que debo hacer? Lo que deberas hacer es clonar este repositorio a tu computadora o laptop. 
+!inserta imagen de como se ve la pagina
 
-- 
+¿Entonces, si ya esta todo hecho, ¿Que es lo que debo hacer?
+1.  The first thing you should do is to clone this repository to your device.
+  ```
+  git clone https://github.com/abrildur/A11y.git
+```
+2.  
 
 ![Amazing gif](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
 
