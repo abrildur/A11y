@@ -4,15 +4,28 @@ Ahora que ya aprendiste muchisimo sobre accesibilidad: sus conceptos basicos, ti
 
 ¡Es momento de implementar todo lo que aprendiste en lecciones anteriores!
 
-![Amazing gif](https://tenor.com/vJUy.gif)
+![Amazing gif](https://media.giphy.com/media/1GTZA4flUzQI0/giphy.gif)
 
-![Amazing gif](https://tenor.com/bKjyb.gif)
+![Amazing gif](https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif)
 
-![Amazing gif](https://tenor.com/vJUy.gif)
+![Amazing gif](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
 
-![Amazing gif](https://tenor.com/1Erg.gif)
+![Amazing gif](https://media.giphy.com/media/uQkKavfX6TER2/giphy.gif)
 
-![Amazing gif](https://tenor.com/bBQ0Q.gif)
+![Amazing gif](https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif)
+
+![Amazing gif](https://media.giphy.com/media/eoxomXXVL2S0E/giphy.gif)
+
+![Amazing gif](https://media.giphy.com/media/mi6DsSSNKDbUY/giphy-downsized-large.giff)
+
+![Amazing gif](https://media.giphy.com/media/jpzOxSk3CV0ur5LyqU/giphy.gif)
+
+![Amazing gif](https://media.giphy.com/media/11syU6ZZ6PsGRO/giphy.gif)
+
+## Mi portafolio
+Aqui en este repositorio encontraras una plantilla ya hecha para tus proyectos y tus redes sociales.
+
+¿Entonces, si ya esta todo hecho, ¿Que es lo que debo hacer? Lo que deberas hacer es 
 
 ## Ya termine de diseñar e implementar elementos accesibles a mi portafolio, ahora ¿como subire mi página web a la nube?
 
