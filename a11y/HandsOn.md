@@ -16,7 +16,10 @@ Aqui en este repositorio encontraras una plantilla en ya hecha para tus proyecto
   ```
   git clone https://github.com/abrildur/A11y.git
 ```
-2.  
+2.  Luego, veras los siguientes archivos.
+
+Estos son los archivos editables desarrollados en HTML, CSS y JavaScript que puedes cambiar a tu gusto
+
 
 ![Amazing gif](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
 
