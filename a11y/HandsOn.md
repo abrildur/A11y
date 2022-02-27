@@ -7,19 +7,27 @@ Now that you've learned about accessibility, including its basic concepts, inclu
 ---
 
 ## My portafolio
-Aqui en este repositorio encontraras una plantilla en ya hecha para tus proyectos y tus redes sociales desarrollada con HTML, CSS y JavaScript.
+Aqui en este repositorio encontraras una plantilla de portafolio ya lista para que añadas tus proyectos y tus redes sociales, esta desarrollada con HTML, CSS y JavaScript.
 
-!inserta imagen de como se ve la pagina
+# !!!!!!!!inserta imagen de como se ve la pagina
 
-¿Entonces, si ya esta todo hecho, ¿Que es lo que debo hacer?
 1.  The first thing you should do is to clone this repository to your device.
   ```
   git clone https://github.com/abrildur/A11y.git
 ```
-2.  Luego, veras los siguientes archivos.
+2.  Luego de clonar el repositorio y abrir dicho repositorio en Visual Studio Code, veras los siguientes archivos  y carpetas (en la imagen inferior, los archivos señalados en el recuadro verde-limon) estos son los archivos editables desarrollados en HTML, CSS y JavaScript que puedes cambiar a tu gusto.
 
-Estos son los archivos editables desarrollados en HTML, CSS y JavaScript que puedes cambiar a tu gusto
+Puedes incluir cualquier imagen que desees puesto que sera tu portafolio.
 
+![Portfolio file's location](../img/portfoliolocation.png)
+
+3. Personaliza tu sitio web! eres libre de incluir cualquier imagen, estilo, tipo de texto o color que decidas, ya que este sera tu portafolio.
+
+Ya lo personalice, **¿ahora cual es el reto que debo hacer?**
+
+- Ahora tienes que asegurarte que en los archivos _index.html y portafolio.html_ se este **implementando de manera correcta el HTML Semantico y aplicar estados y propiedades ARIA en donde corresponde.**
+- Verifica en tu sitio web que los tonos son los adecuados para personas
+  - Si hay algun color que tu sientas que no corresponde y que 
 
 ![Amazing gif](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
 
@@ -37,6 +45,8 @@ Con esta extension podremos subir tu codigo desde VSCode a la nube de Azure. Sig
 ![How to download the Azure Static Web App Step-by-Step Image's](../img/extension.png)
  1. En tu Visual Studio Code, haz click en este icono que se ve en la imagen superior (recuadro rojo, cerca del circulo #1).
  2. Haz
+
+¡Ahora ya estas listo para subir tu pagina web a la nube!
 
 ## ¿Como puedo subir mi página web a la nube de Azure?
  ![Dog in the space gif](https://media.giphy.com/media/11syU6ZZ6PsGRO/giphy.gif)
