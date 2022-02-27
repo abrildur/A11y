@@ -96,16 +96,25 @@ There are 4 categories of ARIA states and properties:
     - aria-expanded
         - The aria-expanded attribute is set on an element to indicate if a control is expanded or collapsed, and whether or not its child elements are displayed or hidden.
 
+    - aria-haspopup
     - aria-hidden
     - aria-invalid
     - aria-label
+    - aria-level
+    - aria-modal
+    - aria-multiline
+    - aria-multiselectable
+    - aria-orientation
     - aria-placeholder
     - aria-pressed
     - aria-readonly
     - aria-required
     - aria-selected 
     - aria-sort
-    - etc... 
+    - aria-valuemax
+    - aria-valuemin
+    - aria-valuenow
+    - aria-valuetext
 
 2 - **Live region attributes**
 
@@ -125,7 +134,19 @@ There are 4 categories of ARIA states and properties:
     - aria-colcount
     - aria-colindex
     - aria-colspan
-    - etc ...
+    - aria-controls
+    - aria-describedby
+    - aria-description
+    - aria-details
+    - aria-errormessage
+    - aria-flowto
+    - aria-labelledby
+    - aria-owns
+    - aria-posinset
+    - aria-rowcount
+    - aria-rowindex
+    - aria-rowspan
+    - aria-setsize
 
 If you would like to learn more about each properties and states, [please click here](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes#aria_attribute_types).
 
