@@ -10,10 +10,13 @@ Asi que, te estaras preguntando:
 
 ¿Qué es lo que voy a necesitar para continuar mi viaje? Muy simple mi estimadx Padawan, necesitaras lo siguiente:
 - Conocimientos básicos de programación (HTML, CSS y JavaScript)
-- Visual Studio Code.
+- Conocimientos básicos de Git y GitHub
+- Conocimientos básicos de computacion en la nube de Azure.
+- Tener instalado [Visual Studio Code](https://code.visualstudio.com/).
 - Una cuenta de Azure.
     - Si aun no tienes tu cuenta de Azure y eres estudiante, ve a la siguiente [liga](https://azure.microsoft.com/es-mx/free/students/) para que obtengas tus creditos y cuenta gratuita como estudiante en Azure. 
-- Una cuenta en GitHub
+- Create a [GitHub](https://github.com) account (if you already have one, please skip this step).
+- Download [GitHub Desktop](https://desktop.github.com).
 
 A continuación te compartimos el temario que veremos en esta aventura.
 
