@@ -32,3 +32,4 @@ Operable es que los componentes de la interfaz de usuario y la navegación deben
 Comprensible es que la información y el manejo de la interfaz de usuario deben ser comprensibles.
 -	Como operar tu sitio, que es lo que hace tu sitio y que entiendan que es lo que el sitio requiere de ellos así como pueden ellos corregir algún error.
 Robusto es que el contenido debe ser suficientemente robusto como para ser interpretado de forma fiable por una amplia variedad de aplicaciones de usuario, incluyendo las ayudas técnicas.
+

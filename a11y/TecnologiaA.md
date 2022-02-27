@@ -24,3 +24,5 @@ Las tecnologías asistidas para la web se pueden dividir en dos campos: las que 
 Ahora te estaras preguntando ¿cómo funcionan las tecnologías asistivas cuando son para habilidades motoras? Escuchan el teclado y esto es muy importante: El teclado es el puente que va a conectar nuestro sitio web con un mundo de tecnologías asistidas, entonces, tenemos que tener en cuenta que no estemos usando de la mejor manera.
 
 ¡Ahora estas listx para seguir con el siguiente modulo!
+
+![Cat moving gif](https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif)
