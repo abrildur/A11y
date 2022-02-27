@@ -15,15 +15,18 @@ Within this repository you will find a portfolio template ready for you to add y
   ```
   git clone https://github.com/abrildur/A11y.git
 ```
-2.  Luego de clonar el repositorio en tu dispositivo y , veras los siguientes archivos  y carpetas (en la imagen inferior, los archivos señalados en el recuadro verde-limon) estos son los archivos editables desarrollados en HTML, CSS y JavaScript que puedes cambiar a tu gusto.
+2.  Luego de clonar el repositorio en tu dispositivo y abrir en Visual Studio Code la ubicacion del mismo , veras los siguientes archivos  y carpetas (en la imagen inferior, los archivos señalados en el recuadro verde-limon) estos son los archivos editables desarrollados en HTML, CSS y JavaScript que puedes cambiar a tu gusto.
+
+------ In Visual Studio Code, after cloning the repository on your device, you will see the following files and folders (in the image below, the files marked in green-limon box). Here are the editable HTML, CSS, and JavaScript files that you can customize.
 
 ![Portfolio file's location](../img/portfoliolocation.png)
 
 3. Personalize your website! This will be your portfolio, so you may use any image, style, type of text, or color you choose ❤️🎨✒️️. 
 
-## Ya personalice el portafolio, **¿ahora cual es el reto que debo hacer?**
+## I've already customized my portfolio, **so what's the next challenge?**.
 
 - Tienes que asegurarte que en los archivos **_index.html y portafolio.html_** se este **implementando de manera correcta el [HTML Semantico](./HTMLSemantico.md), deberas aplicar [estados y propiedades ARIA](./Aria.md) en donde sea necesario.**
+- Please make sure the **_index.html and portfolio.html** files are implementing the [Semantic HTML](./HTMLSemantic.md) correctly, and where necessary, apply the [ARIA states and properties](./ARIA.md).
 - Sigue los consejos de [diseño de accesibilidad](./Pautas.md) que te habiamos compartido al inicio de esta aventura
   - Verifica si el contraste del fondo permite ver el contenido a cualquier persona (_recuerda que existen personas que son ciegas al color_).
     - Si necesitas hacer algun cambio en los colores, tamaños de letra o de tipo de fuente, los puedes hacer en el archivo
