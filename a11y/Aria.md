@@ -49,6 +49,7 @@ Resumen: the ARIA roles preparan al navegador o lectores de pantalla a indicar c
             E-mail <input type="text" aria-label="E-mail"/>
         </form>
 ```
+
 - **Estados**
     - Comunican estados y cambios de estados en elementos que se suelen comunicar visualmente.
        - Si tenemos un checkbox
@@ -72,6 +73,72 @@ Resumen: the ARIA roles preparan al navegador o lectores de pantalla a indicar c
 We can provide a similar experience to users with disabilities as well as users who have all the physical benefits, using statuses which will communicate what things will be displayed on the screen.
 
 Podemos brindar una experiencia similar a usuarios con discapacidades al igual que usuarios que tienen todos los beneficios físicos, usando estados los cuales comunicarán que cosas se estarán mostrando en pantalla
+
+---
+## ARIA attribute types
+
+There are 4 categories of ARIA states and properties:
+
+1 -  **Widget attributes**
+
+    - aria-autocomplete
+    - aria-checked
+    - aria-disabled
+    - aria-errormessage
+    - aria-expanded
+    - aria-haspopup
+    - aria-hidden
+    - aria-invalid
+    - aria-label
+    - aria-level
+    - aria-modal
+    - aria-multiline
+    - aria-multiselectable
+    - aria-orientation
+    - aria-placeholder
+    - aria-pressed
+    - aria-readonly
+    - aria-required
+    - aria-selected 
+    - aria-sort
+    - aria-valuemax
+    - aria-valuemin
+    - aria-valuenow
+    - aria-valuetext
+
+2 - **Live region attributes**
+
+    - aria-busy
+    - aria-live
+    - aria-relevant
+    - aria-atomic
+
+3 - **Drag-and-Drop attributes**
+
+    - aria-dropeffect
+    - aria-grabbed
+
+4 - **Relationship attributes**
+
+    - aria-activedescendant
+    - aria-colcount
+    - aria-colindex
+    - aria-colspan
+    - aria-controls
+    - aria-describedby
+    - aria-description
+    - aria-details
+    - aria-errormessage
+    - aria-flowto
+    - aria-labelledby
+    - aria-owns
+    - aria-posinset
+    - aria-rowcount
+    - aria-rowindex
+    - aria-rowspan
+    - aria-setsize
+
+If you would like to learn more about each properties and states, [please click here](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes#aria_attribute_types).
 
 ---
 
