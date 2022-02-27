@@ -46,7 +46,9 @@ Primero, es necesario que descargues esta extension en tu Visual Studio code: [A
 Con esta extension podremos subir tu codigo desde VSCode a la nube de Azure. Sigue los pasos que estan a continuacion para que puedas descargar esta importante extension.
 ![How to download the Azure Static Web App Step-by-Step Image's](../img/extension.png)
  1. En tu Visual Studio Code, haz click en este icono que se ve en la imagen superior (recuadro rojo, cerca del circulo #1).
- 2. Haz
+ 2. En el navegador (rectangulo naranja) escribe y busca "Azure Static Web App".
+ 3. Haz click el icono que se parece al de la imagen (rectangulo amarillo)
+ 4. Te aparecera una ventana parecida a la que vez en la imagen, ya para finalizar solo haz click en instalar.
 
 ¡Ahora ya estas listo para subir tu pagina web a la nube!
 
