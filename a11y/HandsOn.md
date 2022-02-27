@@ -7,7 +7,7 @@ Now that you've learned about accessibility, including its basic concepts, inclu
 ---
 
 ## My portafolio
-Aqui en este repositorio encontraras una plantilla de portafolio ya lista para que añadas tus proyectos y tus redes sociales, esta desarrollada con HTML, CSS y JavaScript.
+Within this repository you will find a portfolio template ready for you to add your projects and your social networks. It is created using HTML, CSS, and JavaScript.
 
 # !!!!!!!!inserta imagen de como se ve la pagina
 
@@ -15,11 +15,11 @@ Aqui en este repositorio encontraras una plantilla de portafolio ya lista para q
   ```
   git clone https://github.com/abrildur/A11y.git
 ```
-2.  Luego de clonar el repositorio y abrir dicho repositorio en Visual Studio Code, veras los siguientes archivos  y carpetas (en la imagen inferior, los archivos señalados en el recuadro verde-limon) estos son los archivos editables desarrollados en HTML, CSS y JavaScript que puedes cambiar a tu gusto.
+2.  Luego de clonar el repositorio en tu dispositivo y , veras los siguientes archivos  y carpetas (en la imagen inferior, los archivos señalados en el recuadro verde-limon) estos son los archivos editables desarrollados en HTML, CSS y JavaScript que puedes cambiar a tu gusto.
 
 ![Portfolio file's location](../img/portfoliolocation.png)
 
-3. Personaliza tu sitio web! eres libre de incluir cualquier imagen, estilo, tipo de texto o color que decidas, ya que este sera tu portafolio.
+3. Personalize your website! This will be your portfolio, so you may use any image, style, type of text, or color you choose ❤️🎨✒️️. 
 
 ## Ya personalice el portafolio, **¿ahora cual es el reto que debo hacer?**
 
@@ -34,36 +34,48 @@ Aqui en este repositorio encontraras una plantilla de portafolio ya lista para q
 ![Amazing gif](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
 
 
-## Ya termine de diseñar e implementar elementos accesibles a mi portafolio, ahora ¿como subire mi página web a la nube?
+## I have finished designing and implementing accessible elements to my portfolio, now how do I upload my website to the cloud?
 
-Muy sencillo mi estimado Padawan. Te llevaremos paso a paso para que puedas subir tu sitio web a la nube utilizando tu cuenta de Azure. 
+This is very simple, my dear Padawan. We will walk you through the steps to upload your website to the cloud using your Azure account. 
 
-> Si aun no tienes tu cuenta de Azure y eres estudiante, es tu momento de brillar y crearte una cuenta con tu correo universitario [siguiendo este link](https://azure.microsoft.com/es-mx/free/students/).
+> If you don't have an Azure account yet and you are a student, it's your time to shine and create an account with your university email [click here](https://azure.microsoft.com/es-mx/free/students/).
 
-Primero, es necesario que descargues esta extension en tu Visual Studio code: [Azure Static Web Apps extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps).
+First, you need to download this extension in your Visual Studio code: [Azure Static Web Apps extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps).
 
- ### ¿Como puedo descargar la extension de Azure Static Web App?
-Con esta extension podremos subir tu codigo desde VSCode a la nube de Azure. Sigue los pasos que estan a continuacion para que puedas descargar esta importante extension.
-![How to download the Azure Static Web App Step-by-Step Image's](../img/extension.png)
- 1. En tu Visual Studio Code, haz click en este icono que se ve en la imagen superior (recuadro rojo, cerca del circulo #1).
- 2. En el navegador (rectangulo naranja) escribe y busca "Azure Static Web App".
- 3. Haz click el icono que se parece al de la imagen (rectangulo amarillo)
- 4. Te aparecera una ventana parecida a la que vez en la imagen, ya para finalizar solo haz click en instalar.
+ ### How can I download the Azure Static Web App extension?
+A Static Web App is a site built with JavaScript, HTML, CSS and other technologies and by using this it will allow you to quickly post your portfolio and any other website to the internet. 
 
-¡Ahora ya estas listo para subir tu pagina web a la nube!
+With this extension we can upload your code from VSCode to the Azure cloud. Follow the steps below to download this important extension.
 
-## ¿Como puedo subir mi página web a la nube de Azure?
+
+<br/>
+
+![How to download the Azure Static Web App Step-by-Step Image's](../img/extension2.png)
+ 1. In your Visual Studio Code, click on this icon shown in the image above (red box, near circle #1).
+ 2. In the browser (orange rectangle) type and search for "Azure Static Web App".
+ 3. Click on the icon that looks like the one in the image (yellow rectangle).
+ 4. In a window similar to the one shown in the image, click on install (green rectangle) to complete the installation.
+
+Now you are ready to upload your website to the cloud!
+
+---
+
+## Deploying my website to the cloud 🚀
  ![Dog in the space gif](https://media.giphy.com/media/11syU6ZZ6PsGRO/giphy.gif)
 
+1. Inside Visual Studio Code, select the Azure Logo in the Activity Bar to open the Azure extensions window.
 
 ![Hackerman gif](https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif)
- # ¡Felicidades, has cumplido con la mision! 
- ¡Lo lograste! Ahora ya sabes más sobre accesibilidad, tienes tu portafolio y sabes ahora como subir tu pagina web a la nube.
+
+---
+
+ # Congratulations, you have accomplished the mission! 
+ Congratulations! You've done it! By now, you know a bit more about accessibility, you have your portfolio, and you know how to upload your website to the cloud.
 
 ![Cat in a rocket - "you are out of this world" Gif](https://media.giphy.com/media/jpzOxSk3CV0ur5LyqU/giphy.gif)
 
  ![Patricio crying of happiness Gif](https://media.giphy.com/media/1GTZA4flUzQI0/giphy.gif)
 
- Comparte este taller con tus amigos o cualquier otra persona que consideres necesite saber mas sobre accesibilidad.
+ Share this workshop with your friends or anyone else you think needs to know more about accessibility.
 
 ![Amazing gif](https://media.giphy.com/media/eoxomXXVL2S0E/giphy.gif)
