@@ -17,22 +17,24 @@ Aqui en este repositorio encontraras una plantilla de portafolio ya lista para q
 ```
 2.  Luego de clonar el repositorio y abrir dicho repositorio en Visual Studio Code, veras los siguientes archivos  y carpetas (en la imagen inferior, los archivos señalados en el recuadro verde-limon) estos son los archivos editables desarrollados en HTML, CSS y JavaScript que puedes cambiar a tu gusto.
 
-Puedes incluir cualquier imagen que desees puesto que sera tu portafolio.
-
 ![Portfolio file's location](../img/portfoliolocation.png)
 
 3. Personaliza tu sitio web! eres libre de incluir cualquier imagen, estilo, tipo de texto o color que decidas, ya que este sera tu portafolio.
 
-Ya lo personalice, **¿ahora cual es el reto que debo hacer?**
+## Ya personalice el portafolio, **¿ahora cual es el reto que debo hacer?**
 
-- Ahora tienes que asegurarte que en los archivos _index.html y portafolio.html_ se este **implementando de manera correcta el HTML Semantico y aplicar estados y propiedades ARIA en donde corresponde.**
-- Verifica en tu sitio web que los tonos son los adecuados para personas
-  - Si hay algun color que tu sientas que no corresponde y que 
+- Tienes que asegurarte que en los archivos **_index.html y portafolio.html_** se este **implementando de manera correcta el [HTML Semantico](./HTMLSemantico.md), deberas aplicar [estados y propiedades ARIA](./Aria.md) en donde sea necesario.**
+- Sigue los consejos de [diseño de accesibilidad](./Pautas.md) que te habiamos compartido al inicio de esta aventura
+  - Verifica si el contraste del fondo permite ver el contenido a cualquier persona (_recuerda que existen personas que son ciegas al color_).
+    - Si necesitas hacer algun cambio en los colores, tamaños de letra o de tipo de fuente, los puedes hacer en el archivo
+       _portfolio-template/css/index.css_
+    - Puedes hacer uso de la siguiente herramienta [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/), es muy util para nosotros los programadores ya que nos permite saber que colores son accesibles para todas las personas.
+  - Asegurate de incluir _alt_ en tus fotos y videos. 
 
 ![Amazing gif](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
 
 
-### Ya termine de diseñar e implementar elementos accesibles a mi portafolio, ahora ¿como subire mi página web a la nube?
+## Ya termine de diseñar e implementar elementos accesibles a mi portafolio, ahora ¿como subire mi página web a la nube?
 
 Muy sencillo mi estimado Padawan. Te llevaremos paso a paso para que puedas subir tu sitio web a la nube utilizando tu cuenta de Azure. 
 
