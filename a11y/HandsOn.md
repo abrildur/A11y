@@ -23,7 +23,7 @@ Within this repository you will find a portfolio template ready for you to add y
 
 ## I've already customized my portfolio, **so what's the next challenge?**.
 
-- Please make sure the **_index.html and portfolio.html** files are implementing the **[Semantic HTML](./HTMLSemantico.md)** correctly, and where necessary, apply the **[ARIA states and properties](./Aria.md)**.
+- Please make sure the **_index.html and portfolio.html** files are implementing the **[Semantic HTML](./SemanticHTML.md)** correctly, and where necessary, apply the **[ARIA states and properties](./Aria.md)**.
 - Use the [Accessibility Design Tips](./Pautas.md) we shared with you at the beginning of this journey.
 -  Make sure the content can be seen by everyone _(don't forget that there are some people who are color blind)_.
     -  In case you want to change the color, font type, or font size, you can do it in the file _portfolio-template/css/index.css_
