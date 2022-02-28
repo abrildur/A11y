@@ -1,73 +1,136 @@
-# The more you know... 
+## The more you know... 
 
-Ahora que sabes los beneficios que hay por tener accesibilidad web. Es momento que conozcas algunas organizaciones e instituciones que velan por el cumplimiento de leyes y normas de accesibilidad para crear un mundo más seguro.
+Having now learned about the advantages of web accessibility. It is time for you to learn about some institutions and organizations that ensure compliance with accessibility laws and standards.
 
-## ¿Qué es WCAG?
+# What is WCAG?
 
-En inglés son las _Web  Content Accesibility Guidelines_ o en español, las "Pautas de Accesibilidad para el contenido Web". 
--	Un rango de recomendaciones para crear contenido web mas accesible.
+ **Web  Content Accesibility Guidelines** or also known as "WCAG" are a set of recommendations for creating more accessible web content.
 
-## Historia de WCAG
-Son creados por la W3C (_World Wide Web Consortium)_, ellos son los creadores de los estándares que usamos para construir la web (HTML, CSS) y dentro de esta organización hay diferentes iniciativas para enfocarse en temas específicos como el _WAI – Web Accessibility Initiative_. Iniciativa dentro W3C cuya meta es asegurar la accesibilidad web. Es la guía que nos ayuda a implementar la accesibilidad web.
+## WCAG History
 
-**WCAG 2.0** lo cual nos asegura que a medida nuestras tecnologías van creciendo, el estándar con la especificación tambien va creciendo con ellos. Dentro de WCAG hay 12 criterios de conformidad que debemos respetar y cada criterio se divide en tres niveles. Los tres niveles nos ayudan a escoger que tanta inversión le queremos poner a la accesibilidad web.
+They are created by the **W3C _(World Wide Web Consortium)_**, who are the ones who created the standards we use to build the web (HTML, CSS), and within this organization there are different initiatives that address specific issues, such as the **WAI (Web Accessibility Initiative)**.
 
-	- El nivel A. es el nivel mas bajo. Nos garantiza una accesibilidad básica para nuestros productos.
-	- Nivel AA es el nivel intermedio
-	- Nivel AAA es el nivel más alto. Este nivel lo utilizan comúnmente empresas que trabajan con gobiernos o universidades para asegurarse que su contenido que es fundamental para el publico, pueda ser accedido por cualquier persona.
+WAI is a W3C initiative **whose goal is to ensure web accessibility**, it provides guidelines for implementing accessibility.
 
-Las pautas de accesibilidad de contenido web nos guían al momento de implementar la accesibilidad web. Las podemos usar durante todo el proceso de desarrollo de producto, desde que nace la idea para lo que queremos construir, durante el diseño de los estilos y las interfaces, hasta cuando escribimos código y hacemos pruebas de calidad. Nos señalan los puntos importantes para tener en cuenta con eso podemos construir páginas, productos y aplicaciones que le funcionan a todos nuestros usuarios sin importar su capacidades, dispositivos o preferencias.
+It is important to know that the current **WCAG** level is **2.0**, which means that as our technologies continue to grow, the standard will also grow with them.
 
-Aunque las pautas (referidas también por su nombre en inglés WCAG) son muy completas y siguen creciendo a medida que nuestras tecnologías crecen, es importante conocer los 4 principios que nos guían para poder tomar decisiones puntuales a nivel de nuestros productos. Dentro de cada principio encontramos los criterios de conformidad que se pueden interpretar acorde al nivel de WCAG que le quieres o debes aplicar a tu sitio web. 
+According to WCAG, we must comply with 12 conformance criteria that are divided into three levels. The three levels enable us to decide how much investment we will make in web accessibility.
 
-En esta lectura vamos a profundizar sobre los criterios de conformidad para tener una idea más clara de que podemos encontrar dentro de WCAG. Podemos empezar por el primer principio:
+- **Level A** is the lowest level. 
+	- It guarantees a basic accessibility for our products.
+- **Level AA** is the intermediate level.
+- **Level AAA** is the highest level. 
+	- The level is often used by companies that work with governments or universities to guarantee that their content, which is critical to the public, can be accessed by anyone.
 
-	perceptible
-	operable
-	comprensible
-	robusto
+Web Content Accessibility Guidelines guide us in implementing web accessibility. They can be used throughout the entire product development process, from the conception of the idea for what we are trying to build, through the design of styles and interfaces, until we write code and perform quality testing. We should keep these points in mind when building pages, products, and applications that work for all users regardless of their capabilities, devices, or preferences.
 
-El perceptible es que la información y los componentes de la interfaz de usuario deben ser presentados a los usuarios de modo que ellos puedan percibirlos.
-Operable es que los componentes de la interfaz de usuario y la navegación deben ser operables.
-Comprensible es que la información y el manejo de la interfaz de usuario deben ser comprensibles.
--	Como operar tu sitio, que es lo que hace tu sitio y que entiendan que es lo que el sitio requiere de ellos así como pueden ellos corregir algún error.
-Robusto es que el contenido debe ser suficientemente robusto como para ser interpretado de forma fiable por una amplia variedad de aplicaciones de usuario, incluyendo las ayudas técnicas.
+## Explanation of the 12 compliance criteria
+In spite of the fact that the guidelines (WCAG) are very comprehensive and continue to grow as our technologies progress, **is important to know the four principles** that guide us to make specific decisions at the product level. Each principle contains conformity criteria that can be interpreted based on the level of WCAG that should be applied to your website. 
 
+As we move through this reading, we will take a closer look at the conformance criteria in order to better understand what we can find inside WCAG. 
+
+Let's start with the first principle:
+1. **Perceivable**
+	- Information and user interface components must be presentable to users in ways they can perceive.
+		- This means that users must be able to perceive the information being presented (it can't be invisible to all of their senses)
+<br>
+
+	We want to: <br>
+	
+	1.1 Ensure that we are providing textual alternatives for all non-textual content.
+
+	1.2 Offer alternatives to the media (like subtitles or scripts for videos or audios).
+	
+	1.3 Provide content that can be presented in a variety of ways without losing its structure or information.
+	
+	1.4 Make it easier for users to see and hear content, such as separation between foreground and background.
+
+2. **Operable**
+-  User interface components and navigation must be operable.
+	- _When we talk about Operable, we want our site to be easy to use and navigate, that it can be navigated using different methods and with a mouse and/or keyboard._
+	<br>
+	<br>
+
+	2.1 Provide keypad access to all functionality
+	
+	2.2 Provide enough time for users to read and use the content (when making time-outs, communicate them clearly and provide the option of asking for more time if necessary).
+	
+	2.3 Do not use elements that glow or move too quickly as they may cause seizures, spasms, or convulsions.
+	
+	2.4 Enable users to navigate, find content, and determine where they are on our sites.
+
+3. **Understandable**
+- Information and the operation of user interface must be understandable.
+	- This means that users must be able to understand the information as well as the operation of the user interface (the content or operation cannot be beyond their understanding)
+	<br>
+	<br>
+
+	3.1 Make text readable and understandable by considering text sizes and color contrast.
+	
+	3.2 Ensure that web pages are predictable in appearance and operations.
+	
+	3.3 Provide instructions to avoid errors and opportunities for correction when they do occur.
+
+4. **Robust**
+- Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies.
+	- This means that users must be able to access the content as technologies advance (as technologies and user agents evolve, the content should remain accessible)
+	<br>
+	<br>
+4.1 Ensure compatibility with current and future applications, including assistive technologies
+
+These are the conformance criteria for WCAG version 2.0. You can read more about the requirements at each level by visiting the [documentation](https://www.w3.org/TR/WCAG20/). What surprises you the most?
+
+![Salem the cat reading](https://media.giphy.com/media/iqRgU7mFDGeUU/giphy.gif)
+
+# Designing for everyone
+> _"The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect,"_ said Tim Berners-Lee, W3C Director and inventor of the World Wide Web.
+
+We'll share some tips on how you can design for everyone.
+
+- **Ensure the colors you use have adequate contrast.**
+	- Some people have different ways of perceiving color or may be color blind. 
+		- We need to ensure that the contrast is high enough to distinguish a background from a content. Sometimes when we see yellow backgrounds used with white text, we only think about aesthetics, but we need to try to create products that are not only eye-catching/attractive, but also suitable for any type of audience.
+<br>
+
+- **Ensure that color coding is not the only way to relate content.**
+	- To ensure that all users can access the content when grouping content by color, you should provide an alternative such as a border, icon, or category title.
+<br>
+
+- **Design taking into account the "focus" and "active" states of the components**.
+	- By default, when we program forms, buttons, or other HTML elements, the border or underline is left, this is important not to remove because this is a visual guide for many people or for people who are browsing the keyboard.
+<br>
+
+- **Adds labels and descriptive text to form fields**.
+	- Adding a descriptive label such as Aria-Labels is crucial since users of the _tab_ will not be able to view all titles. 
+	- A screen reader should also be able to hear a message on the form when an error occurs, in addition to the button/border changing color.
+<br>
+
+- **Write descriptive content that can replace videos and images**.
+	- We upload images or videos that contain very important information that may not be accessible to a person using screen readers, so by keeping the text out of the videos and images, screen readers will be able to hear the interpretation of these elements.
+		- Suppose you want to include an image of a puppy that is important for your website, add an alt tag so that screen reader users can know what is in that section. 
+<br>
+
+- **Ensure that animations do not block access to web page content**.
+	- This is closely related to responsive design.
+		- A page where we must click to execute an animation and this will show us the text means that the basic text has been blocked by the animation. 
+			- This is also not a good practice, and it is not a good practice that users are bombarded with flashes when accessing a page. 
+
+
+## Interesting Articles
+More information about UX Design can be accessed here so you can create more content and products that are accessible to all.
+- [NielsenNorman Group - 10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
+
+- [Interaction Design Foundation - User Interface Design Guidelines: 10 Rules of Thumb](https://www.interaction-design.org/literature/article/user-interface-design-guidelines-10-rules-of-thumb)
+
+- [Laws of UX](https://lawsofux.com/)
+<br>
+
+# Go to the next lesson: [Assistive Technology](./AssistiveTech.md)
+
+
+![Patricio's Gif - I'm rooting for you](https://media.giphy.com/media/12XDYvMJNcmLgQ/giphy.gif)
 ---
 
-# Diseñando para todos
-te compartiremos algunos consejos sobre como podras diseñar para todos.
-
-
-"El poder de la Web està en su universalidad. El acceso detodaslaspersonas independientemente dela discapacidad es un aspecto esencial." Tim Berners-Lee, W3C Director.
-
-Hoy en dia es obligatorio que nuestras paginas web y aplicaciones sean accesibles, la web es un deerecho para todas las personas incluidas a las personas que tienen cualquier tipo de discapacidad.
-
-Tips básicos de accesibilidad.
-- Utiliza los encabezados de manera ordenada para organizar la estructura delcontenido (HTML5 Semantico). El uso de diferentes tipos de titulos (H1, H2, H3...) nos permite generar jerarquia y esto es muy importante para la accesibilidad, ya que esto le garantiza a una persona que este navegando por el teclado que identifique que tan importante es un titulo en relacion a otro, permite agrupar por diferentes categorias, grupos de informacion, etc.
-- Utiliza tamaños de fuente accesibles.
-	Usar un tamaños de fuente de 10px, asi sea en un movil, no es algo practico. Tenemos que garantizar que los tamaños de fuente sean accesibles para todas las personas.
-- Utiliza colores que tengan un contraste adecuado.
-	hay personas que tienen diferentes formas de percibir el color. Entonces, tenemos que asegurarnos que el contraste sea lo suficientemente alto para poder diferenciar un fondo de un contenido. Muchas veces vemos como se usan fondos amarillos con textos blancos y solo pensamos en la estetica, cuando en realidad mas alla de la estetica tenemos que intentar crear productos que sean llamativos/atractivos pero que tambien le funcionen a cualquier tipo de publico.
-
-<!-- https://platzi.com/clases/1906-diseno-programadores/28553-accesibilidad-y-diseno/ -->
-
-- Garantiza que el codigo de color no sea la unica forma de relacionar el contenido.
-	Al implementar las agrupaciones de contenido por colores es necesario ofrecer una alternativa ya sea con un borde, icono o un titulo de categoria para que de esta manera se pueda garantizar que cualquier persona pueda acceder a dicho contenido.
-
-- Diseña teniendo en cuenta los estados "focus" y "active" de los componentes.
-	 cuando programamos vemos por defecto los formularios, los botones, u otros elementos de HTML quedan con un borde despues de hacerle click o con un subrayado, esto es importante no quitarlo porque esta es una guia visual para muchas personas o para personas que estan navegando por el teclado.
-
-- Añade etiquetas y textos descriptivos a los campos de formulario.
-	Esto es muy importante para las personas que navegan con el __tab_ no van a tener acceso a todos los titulos, entonces es importante añadirle una etiqueta descriptiva como son las Aria-Labels. 
-	Es importante tambien garantizar a los usuarios que cuando aparezca algun error en el formulario ademas de que cambie de color el boton/borde a rojo o a verde tambien aparezca un mensaje que pueda ser escuchado por un lector de pantalla.
-	
-- Escribe contenido descriptivo que pueda reemplazar videos e imágenes.
-	A veces subimos informacion muy importante en imagenes o videos lo cual no permitiria a una persona que utiliza lectores de pantalla obtener dicha informacion, asi que es mejor manera.
-	Es mejor mantener el texto fuera de los videos e imagenes y de esta manera los usuarios que estan navegando por medio de un lector de pantalla van a poder escuchar la interpretacion de estos elementos.
-	Ahora quieres incluir una imagen de por ejemplo un perrito que es importante para tu sitio web, añade una etiqueta alt para que las personas que estan utilizando lectores de pantalla puedan saber que hay en dicha seccion. 
-
-
-- Garantiza que las animaciones no bloqueen el acceso al contenido.
-	Esto va de la mano con el diseño responsivo. Cuando tenemos una pagina, en donde tenemos que haccer click para ejecutar una animacion y esto nos va a mostrar el texto, esto quiere decir queeste teexto basico esta bloqueado por una animacion. Esto tampoco es una buena practica y tampoco es buena practica que los usuarios vean muchos flashes cuando van a acceder a una pagina. 
-
+# Bibliographic References
+- [W3C - Introduction to Understanding WCAG 2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html) 
+- [W3C - Module 4: Principles, Standards, and Checks](https://www.w3.org/WAI/curricula/foundation-modules/principles-standards-and-checks/)
