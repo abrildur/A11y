@@ -33,3 +33,41 @@ Comprensible es que la información y el manejo de la interfaz de usuario deben 
 -	Como operar tu sitio, que es lo que hace tu sitio y que entiendan que es lo que el sitio requiere de ellos así como pueden ellos corregir algún error.
 Robusto es que el contenido debe ser suficientemente robusto como para ser interpretado de forma fiable por una amplia variedad de aplicaciones de usuario, incluyendo las ayudas técnicas.
 
+---
+
+# Diseñando para todos
+te compartiremos algunos consejos sobre como podras diseñar para todos.
+
+
+"El poder de la Web està en su universalidad. El acceso detodaslaspersonas independientemente dela discapacidad es un aspecto esencial." Tim Berners-Lee, W3C Director.
+
+Hoy en dia es obligatorio que nuestras paginas web y aplicaciones sean accesibles, la web es un deerecho para todas las personas incluidas a las personas que tienen cualquier tipo de discapacidad.
+
+Tips básicos de accesibilidad.
+- Utiliza los encabezados de manera ordenada para organizar la estructura delcontenido (HTML5 Semantico). El uso de diferentes tipos de titulos (H1, H2, H3...) nos permite generar jerarquia y esto es muy importante para la accesibilidad, ya que esto le garantiza a una persona que este navegando por el teclado que identifique que tan importante es un titulo en relacion a otro, permite agrupar por diferentes categorias, grupos de informacion, etc.
+- Utiliza tamaños de fuente accesibles.
+	Usar un tamaños de fuente de 10px, asi sea en un movil, no es algo practico. Tenemos que garantizar que los tamaños de fuente sean accesibles para todas las personas.
+- Utiliza colores que tengan un contraste adecuado.
+	hay personas que tienen diferentes formas de percibir el color. Entonces, tenemos que asegurarnos que el contraste sea lo suficientemente alto para poder diferenciar un fondo de un contenido. Muchas veces vemos como se usan fondos amarillos con textos blancos y solo pensamos en la estetica, cuando en realidad mas alla de la estetica tenemos que intentar crear productos que sean llamativos/atractivos pero que tambien le funcionen a cualquier tipo de publico.
+
+https://platzi.com/clases/1906-diseno-programadores/28553-accesibilidad-y-diseno/
+
+- Garantiza que el codigo de color no sea la unica forma de relacionar el contenido.
+	Al implementar las agrupaciones de contenido por colores es necesario ofrecer una alternativa ya sea con un borde, icono o un titulo de categoria para que de esta manera se pueda garantizar que cualquier persona pueda acceder a dicho contenido.
+
+- Diseña teniendo en cuenta los estados "focus" y "active" de los componentes.
+	 cuando programamos vemos por defecto los formularios, los botones, u otros elementos de HTML quedan con un borde despues de hacerle click o con un subrayado, esto es importante no quitarlo porque esta es una guia visual para muchas personas o para personas que estan navegando por el teclado.
+
+- Añade etiquetas y textos descriptivos a los campos de formulario.
+	Esto es muy importante para las personas que navegan con el __tab_ no van a tener acceso a todos los titulos, entonces es importante añadirle una etiqueta descriptiva como son las Aria-Labels. 
+	Es importante tambien garantizar a los usuarios que cuando aparezca algun error en el formulario ademas de que cambie de color el boton/borde a rojo o a verde tambien aparezca un mensaje que pueda ser escuchado por un lector de pantalla.
+	
+- Escribe contenido descriptivo que pueda reemplazar videos e imágenes.
+	A veces subimos informacion muy importante en imagenes o videos lo cual no permitiria a una persona que utiliza lectores de pantalla obtener dicha informacion, asi que es mejor manera.
+	Es mejor mantener el texto fuera de los videos e imagenes y de esta manera los usuarios que estan navegando por medio de un lector de pantalla van a poder escuchar la interpretacion de estos elementos.
+	Ahora quieres incluir una imagen de por ejemplo un perrito que es importante para tu sitio web, añade una etiqueta alt para que las personas que estan utilizando lectores de pantalla puedan saber que hay en dicha seccion. 
+
+
+- Garantiza que las animaciones no bloqueen el acceso al contenido.
+	Esto va de la mano con el diseño responsivo. Cuando tenemos una pagina, en donde tenemos que haccer click para ejecutar una animacion y esto nos va a mostrar el texto, esto quiere decir queeste teexto basico esta bloqueado por una animacion. Esto tampoco es una buena practica y tampoco es buena practica que los usuarios vean muchos flashes cuando van a acceder a una pagina. 
+
