@@ -72,9 +72,7 @@ Note: You are required to sign in to Azure and GitHub in Visual Studio Code to c
 ---
 
  # Congratulations, you have accomplished the mission! 
- Congratulations! You've done it! By now, you know a bit more about accessibility, you have your portfolio, and you know how to upload your website to the cloud.
-
-![Cat in a rocket - "you are out of this world" Gif](https://media.giphy.com/media/jpzOxSk3CV0ur5LyqU/giphy.gif)
+You've done it! By now, you know a bit more about accessibility, you have your portfolio, and you know how to upload your website to the cloud.
 
  ![Patricio crying of happiness Gif](https://media.giphy.com/media/1GTZA4flUzQI0/giphy.gif)
 

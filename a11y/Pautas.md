@@ -50,7 +50,7 @@ Tips básicos de accesibilidad.
 - Utiliza colores que tengan un contraste adecuado.
 	hay personas que tienen diferentes formas de percibir el color. Entonces, tenemos que asegurarnos que el contraste sea lo suficientemente alto para poder diferenciar un fondo de un contenido. Muchas veces vemos como se usan fondos amarillos con textos blancos y solo pensamos en la estetica, cuando en realidad mas alla de la estetica tenemos que intentar crear productos que sean llamativos/atractivos pero que tambien le funcionen a cualquier tipo de publico.
 
-https://platzi.com/clases/1906-diseno-programadores/28553-accesibilidad-y-diseno/
+<!-- https://platzi.com/clases/1906-diseno-programadores/28553-accesibilidad-y-diseno/ -->
 
 - Garantiza que el codigo de color no sea la unica forma de relacionar el contenido.
 	Al implementar las agrupaciones de contenido por colores es necesario ofrecer una alternativa ya sea con un borde, icono o un titulo de categoria para que de esta manera se pueda garantizar que cualquier persona pueda acceder a dicho contenido.

@@ -5,7 +5,7 @@ Hay muchos tipos diferentes de discapacidad, como la visión, la audición, el h
 
 ## Tecnologia Asistiva
 
-Algunas personas con discapacidad pueden utilizar tecnología de apoyo (TA) para acceder a la tecnología o realizar tareas. La TA es cualquier artículo, equipo, programa informático o producto que se utiliza para aumentar, mantener o mejorar las capacidades funcionales de las personas con discapacidad (ATIA)*.
+Some people with disabilities may use assistive technology (AT) to access technology or perform tasks. AT is any item, piece of equipment, software program, or product that is used to increase, maintain, or improve the functional capabilities of people with disabilities (ATIA)*. There is a wide variety of AT products and applications that enable people improve their ability to access technology.
 
 *[Assistive Technology Industry Association](https://www.atia.org/at-resources/what-is-at/#what-is-assistive-technology)
 

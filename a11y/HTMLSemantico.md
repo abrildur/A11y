@@ -1,23 +1,31 @@
-# HTML Semantico
+# Semantic HTML
 
-Este concepto es basicamente muy importante para nosotros los desarrolladores, precisamente porque muy pronto estaras utilizando en tu vida profesional, ciertas etiquetas frecuentes de HTML. Es una de las herramientas mas poderosas cuando queremos implementar accesibilidad en nuestra pagina web.
+This concept is basically very important for us developers, precisely because very soon you will be using in your professional life, certain frequent HTML tags. It is one of the most powerful tools when we want to implement accessibility in our website.
 
-´´´´
+```HTML
 <div>
-    <p>Hola, Soy un DIV </p>
+    <p>Hi, I'm a div </p>
 </div>
-´´´´
+```
 
-Los **divs** nos permiten hacer infinidad de cosas, y habra ocasiones en las cuales _no podremos utilizarlo siempre_.
+We can do infinite amounts of things with **divs**, however, _we won't always be able to use them_.
 
-El HTML Semantico nos va a indicar y nos va a decir "Hey, utiliza propiedades adecuadas para los textos, para los parrafos, para las imagenes, para las secciones que utilices." Esto quiere decir que no tienes que utilizar siempre el _div_, sino que utiliza las etiquetas correspondientes de HTML que ya existen especificas para cada una de las cosas.
+The semantic HTML will tell us to use appropriate properties for the texts, the paragraphs, the images, the sections, etc. This means that you do not have to use the _div_, but rather use the corresponding HTML tags for each element.
 
-Esto nos va a ayudar: 
-- A que tu sitio web va a ser accesible
-    - Bing y Google, lo que hacen es revisar nuestra pagina web, revisa nuestro contenido detalladamente y si nosotros tenemos muchos divs, el navegador va a decir "no significas nada, _div_". Por eso es importante tener HTML Semantico para que los navegadores entiendan el contenido del mismo.
-- Mejora tu posicionamiento SEO
-- A tener un código más claro.
+![SEMANTIC HTML Image with two characters: web browser saying to div: "you don't mean something to me"](../img/semantichtml.png)
 
-Todas estas etiquetas las podemos hacer con _divs_ pero lo ideal es utilizar las etiquetas correspondientes 
+It will help us:  
+- To make your website more accessible.
+    - A browser like Bing and Google inspects our web page, checks our content in detail, and if we have many div's, it will say _"you mean nothing to me, div_". **This is why you need semantic HTML so that browsers can understand your content.**
+- Improve your SEO position
+- Improves the clarity of the code.
 
-https://platzi.com/clases/2467-frontend-developer/40832-que-es-html-semantico/
+![SEMANTIC HTML structure image](../img/Capturatalller.PNG)
+
+While all of these tags can be created with _div_, it is ideal to use the corresponding HTML tags. 
+
+---
+
+# Next lesson: [ARIA](./Aria.md).
+
+![Cat in a rocket - "you are out of this world" Gif](https://media.giphy.com/media/jpzOxSk3CV0ur5LyqU/giphy.gif)
