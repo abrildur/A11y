@@ -24,13 +24,13 @@ Below, we share with you the agenda for this adventure.
 
 | Lesson        | Name         | Content | Location  |
 | :-------------: |:-------------:| :-----:| :-----: |
-| 1     | ¿Qué es la Accesibilidad? | En esta lección, aprenderas sobre conceptos basicos y muy importantes de la Accesibilidad Web. Asimismo  | [Click here](./a11y/A11y.md) |
-| 2      | Pautas de la Accesibilidad      |  Aprenderas todo lo relacionado con las normas basicas de WACG, WAI y su historia. | [Click here](./a11y/Pautas.md)  |
-| 3 |  Tecnologia Asistiva  | ¿Alguna vez te has preguntado que tecnologias existen para las personas con discapacidad? En esta lección aprenderas sobre ello. | [Click here](./a11y/TecnologiaA.md)  |
-| 4 | HTML Semantico | Aprenderas sobre la importancia de tener un HTML Semantico, sus beneficios y como lo podras incluir en tu pagina web. | [Click here](./a11y/HTMLSemantico.md)  |
-| 5 | ARIA | Aprenderas sobre ARIA y como lo puedes incorporar en tus sitios web. | [Click here](./a11y/Aria.md)  |
-| 6 | Azure | Aquí aprenderas lo que necesitas saber de Azure para este proyecto | [Click here](./a11y/Azure.md)  |
-| 7 | Hands-on (Step-by-step) | ¡Crea tu portafolio accesible y subelo a la nube con todas las herramientas que has aprendido hasta ahora! | [Click here](./a11y/HandsOn.md)  |
+| 1     |What is Accessibility? |  Learn about the most basic and important concepts of web accessibility in this lesson. | [Click here](./a11y/A11y.md) |
+| 2      | Accessibility Guidelines  |  You will learn all about the basic standards of WACG, WAI and their history. | [Click here](./a11y/Pautas.md)  |
+| 3 |  Assistive Technology  | Have you ever wondered what technologies are available to people with disabilities? You will find out in this lesson. | [Click here](./a11y/TecnologiaA.md)  |
+| 4 | Semantic HTML | You will learn about the importance of having a Semantic HTML, its benefits and how you can include it in your website. | [Click here](./a11y/HTMLSemantico.md)  |
+| 5 | ARIA | You will learn about ARIA and how you can incorporate it into your websites. | [Click here](./a11y/Aria.md)  |
+| 6 | Azure | Here you will learn what you need to know about Azure for this project. | [Click here](./a11y/Azure.md)  |
+| 7 | Hands-on! (Step-by-step) | Create your accessible portfolio and upload it to the cloud with all the tools you have learned so far! | [Click here](./a11y/HandsOn.md)  |
 
 Are you ready for our journey to a more accessible world? Let's begin! [First lesson: What is Accessibility?](./a11y/A11y.md) 
 
