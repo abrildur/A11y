@@ -127,6 +127,7 @@ More information about UX Design can be accessed here so you can create more con
 
 # Go to the next lesson: [Assistive Technology](./AssistiveTech.md)
 
+In case you would like to go back to the previous lesson, [click here](./A11y.md).
 
 ![Patricio's Gif - I'm rooting for you](https://media.giphy.com/media/12XDYvMJNcmLgQ/giphy.gif)
 ---

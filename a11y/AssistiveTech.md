@@ -33,9 +33,11 @@ _Fun fact_: Microsoft Teams also has translation capability. The inline message 
 
 Now you are ready to move on to the next module!
 
-# Next lesson: [ARIA](./A11y.md)
+# Next lesson: [Semantic HTML](./SemanticHTML.md)
 
-![Cat moving gif](https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif)
+In case you would like to go back to the previous lesson, [click here](./Guide.md).
+
+![Motivational penguin gif saying "You can do it!"s](https://media.giphy.com/media/OZbGrdp7FiDiE/giphy.gif)
 
 # Bibliographic references
 -[Microsoft Learn - What is Accessibility?](https://docs.microsoft.com/en-us/learn/modules/intro-accessibility-disability/00-what-is-accessibility)

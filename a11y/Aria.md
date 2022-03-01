@@ -144,6 +144,7 @@ States and properties in the ARIA are divided into four categories, and we will 
 ---
 
 # You're done! it's time to [create your portfolio!](./HandsOn.md)
+In case you would like to go back to the previous lesson, [click here](./SemanticHTML.md).
 
 ![Aladdin's movie gif - Showtime ](https://media.giphy.com/media/cIh8DK7Or9BpI926WJ/giphy.gif)
 

@@ -26,7 +26,7 @@ Below, we share with you the agenda for this adventure.
 | Lesson        | Name         | Content | Location  |
 | :-------------: |:-------------:| :-----:| :-----: |
 | 1     |What is Accessibility? |  Learn about the most basic and important concepts of web accessibility in this lesson. | [Click here](./a11y/A11y.md) |
-| 2      | Accessibility Guidelines  |  You will learn all about the basic standards of WACG, WAI and their history. | [Click here](./a11y/Pautas.md)  |
+| 2      | Accessibility Guidelines  |  You will learn all about the basic standards of WACG, WAI and their history. | [Click here](./a11y/Guide.md)  |
 | 3 |  Assistive Technology  | Have you ever wondered what technologies are available to people with disabilities? You will find out in this lesson. | [Click here](./a11y/AssistiveTech.md)  |
 | 4 | Semantic HTML | You will learn about the importance of having a Semantic HTML, its benefits and how you can include it in your website. | [Click here](./a11y/SemanticHTML.md)  |
 | 5 | ARIA | You will learn about ARIA and how you can incorporate it into your websites. | [Click here](./a11y/Aria.md)  |

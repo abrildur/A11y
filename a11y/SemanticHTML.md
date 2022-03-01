@@ -28,4 +28,6 @@ While all of these tags can be created with _div_, it is ideal to use the corres
 
 # Next lesson: [ARIA](./Aria.md).
 
+In case you would like to go back to the previous lesson, [click here](./AssistiveTech.md).
+
 ![Cat in a rocket - "you are out of this world" Gif](https://media.giphy.com/media/jpzOxSk3CV0ur5LyqU/giphy.gif)
