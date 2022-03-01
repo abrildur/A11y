@@ -16,7 +16,7 @@ What will I need to continue my journey? Very simple my dear Padawan, you will n
 - Basic knowledge of Azure cloud computing.
     -  _You can learn here about [cloud computing](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/what-is-cloud-computing?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.az-900-describe-cloud-concepts) and [Azure](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/what-is-microsoft-azure?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.az-900-describe-cloud-concepts)._
 > *If you already have all of these programs, please skip this step.*
-- Have [Git](https://git-scm.com/), [Visual Studio Code](https://code.visualstudio.com/) and [GitHub Desktop](https://desktop.github.com) installed on your device.
+- Have [Git](https://git-scm.com/) and [Visual Studio Code](https://code.visualstudio.com/) installed on your device.
 - An [Azure](https://azure.microsoft.com/en-us/free/) account.
     - If you don't have your Azure account yet and you are a student, go to the following [link](https://azure.microsoft.com/es-mx/free/students/) to get your credits and free student account in Azure. 
 - A [GitHub](https://github.com) account.
