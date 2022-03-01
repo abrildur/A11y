@@ -56,15 +56,23 @@ Now you are ready to upload your website to the cloud!
 
 ---
 
-## Deploying my website to the cloud 🚀
+### Deploying my website to the cloud 🚀
  ![Dog in the space gif](https://media.giphy.com/media/11syU6ZZ6PsGRO/giphy.gif)
 
-1. Inside Visual Studio Code, select the Azure Logo in the Activity Bar to open the Azure extensions window.
-![Step 1 image's](../img/step1.png)
+## Option 1: Learn how to deploy your portfolio to Azure using Visual Studio Code [video tutorial](https://youtu.be/43JNn3NEnjg).
 
-Note: You are required to sign in to Azure and GitHub in Visual Studio Code to continue. If you are not already authenticated, the extension will prompt you to sign in to both services during the creation process.
+[![How to deploy your portfolio to Azure on VS Code](../img/videeeo.png)](https://youtu.be/43JNn3NEnjg "How to deploy your portfolio to Azure on VS Code")
+<br>
+<!--- https://youtu.be/YGHwX0zPSWY---> 
 
-2. 
+## Option 2: Deploy your portfolio on Azure's Portal [video tutorial]()
+
+You did it! Your portfolio should look something like this:
+
+![Portfolio uploaded into the Azure cloud image's](../img/option1/portfolio.PNG)
+<br>
+
+Wo-hoooooo!
 ![Hackerman gif](https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif)
 
 ---
