@@ -42,11 +42,11 @@ a.bar-menu#a:hover{
   padding: 0;
   font-size: 1.2rem;
   color: #fff !important;
-  background-image: url(../img/fondo2.jpg) !important;
+  background-image: url(../images/fondo2.jpg) !important;
 }
 /*works here to fix the white background*/
 body, .uk-text-center{
-  background-image: url(../img/fondo2.jpg) !important;
+  background-image: url(../images/fondo2.jpg) !important;
 }
 .h-100{
   height: 100%

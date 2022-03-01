@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="./portfolio-template/css/portfolio.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
     <link rel="icon" href="./portfolio-template/images/littlebu.png">
-    <title>Your Name - Portfolio</title>
+    <title>Your Name - Portafolio</title>
   </head>
   <body id="body">
     <div class="uk-section-default uk-background-blend-darken welcome uk-background-fixed uk-background-cover " id="Inicio">
@@ -17,7 +17,7 @@
                     <ul class="uk-navbar-nav">
                     <li class="uk-active alte-bold ">
                         <a href="index.html" class="inline uk-heading-primary">
-                            <img src="img/logo4.png" alt="icono" role="img" class="icono">
+                            <img src="./portfolio-template/images/logo4.png" alt="icono" class="icono">
                         </a>
                     </li>
                     </ul>
@@ -25,44 +25,40 @@
                   <div class="uk-navbar-right ">
                           <ul class="uk-navbar-nav">
                              <li class="uk-active"><a class="bar-menu" href="./index.html">Home</a></li>
-                              <li class="uk-active"><a class="bar-menu" href="./portfolio.html" style="text-align: center;">Portfolio</a>
+                              <li class="uk-active">
+                                  <a class="bar-menu" href="./portfolio.html" style="text-align: center;">
+                                    Portfolio
+                                </a>
                               </li>
                           </ul>
                   </div>
             </nav>
         </div>
-        <!--Seccion de background principal -->
-        <div class="uk-child-width-1-1@s" uk-grid>
-          <div>
-              <div class="uk-background-cover uk-height-medium uk-panel uk-flex uk-flex-center uk-flex-middle" style="background-image: url(./img/portfolio.png);">
-                <div class="uk-overlay-primary uk-position-cover uk-dark"></div>
-                <div class="uk-overlay uk-position-center uk-light">
-                    <p class="alte-bold uk-h1">Portfolio</p>
-                </div>  
-            </div>
-          </div>
+        <!------------------------------------------------------------------------My portfolio ------------------------>
+        <div>
+            <h3 style="font-size: 1.8em; margin: 10px; padding: 20px; text-align: center;" class="text-black alte-bold uk-margin-small-top">My portfolio</h3>  
         </div>
-        <!-----------------------------------------Portfolio sections  ------------------------>
-        <div class="uk-child-width-1-2@m" style="padding: 2%" uk-grid>
+        <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match " uk-scrollspy="cls:uk-animation-fade" uk-grid>
             <div>
-                <div class="uk-card uk-card-default">
-                    <div class="uk-card-media-top uk-animation-fade">
-                        <img src="./img/ux4.png" alt="">
-                    </div>
-                    <div class="uk-card-body">
-                        <h3 class="uk-card-title uk-link-text"><a href="./portfolioux.html" style="color: blue;" id="hi">UX Researcher</a></h3>
-                        <p>Some of the projects you will find are the following: <br>
-                            ->Heuristic evaluation of the Colombian online store Éxito.
-                            <br>
-                            ->Usability testing of the Bumble mobile application.
-                            <br>
-                            ->Summative study with unmoderated usability tests.
-                            <br>
-                            ->Project related to Citizen Experience.
-                        </p>
-                    </div>
+                <div class="uk-card uk-card-default uk-card-body">
+                    <h3 class="uk-card-title">Magic Mind Juice </h3>
+                    <img src="./portfolio-template/images/project1.jpg" alt="my first project image branding, it contains a bottles for a brand that we designed">
+                    <p style="font-size: 1.1rem;">This is the design we did as a school project in our marketing subject.</p>
                 </div>
             </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-body">
+                    <h3 class="uk-card-title">My amazing branding project</h3>
+                    <article>
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
+                        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+                        nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate 
+                        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
+                        sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    </article>
+                </div>
+            </div>
+        </div>
   </body>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.40/js/uikit.min.js"></script>
