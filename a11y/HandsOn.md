@@ -65,7 +65,7 @@ Now you are ready to upload your website to the cloud!
 <br>
 <!--- https://youtu.be/YGHwX0zPSWY---> 
 
-## Option 2: Deploy your portfolio on Azure's Portal [video tutorial]()
+## Option 2: Deploy your portfolio on Azure's Portal [video tutorial](https://youtu.be/v5wAkRocKKU)
 
 You did it! Your portfolio should look something like this:
 
@@ -73,6 +73,7 @@ You did it! Your portfolio should look something like this:
 <br>
 
 Wo-hoooooo!
+-
 ![Hackerman gif](https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif)
 
 ---
