@@ -83,6 +83,8 @@ You've done it! By now, you know a bit more about accessibility, you have your p
 
  ![Patricio crying of happiness Gif](https://media.giphy.com/media/1GTZA4flUzQI0/giphy.gif)
 
+# Next Steps
+
  Share this workshop with your friends or anyone else you think needs to know more about accessibility.
 
 ![Amazing gif](https://media.giphy.com/media/eoxomXXVL2S0E/giphy.gif)
