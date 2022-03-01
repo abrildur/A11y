@@ -14,7 +14,8 @@ What will I need to continue my journey? Very simple my dear Padawan, you will n
 - Basic programming skills (HTML, CSS and JavaScript).
 - Basic knowledge of Git and GitHub
 - Basic knowledge of Azure cloud computing.
-> *If you already have any of these programs, please skip this step.*
+    -  _You can learn here about [cloud computing](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/what-is-cloud-computing?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.az-900-describe-cloud-concepts) and [Azure](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/what-is-microsoft-azure?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.az-900-describe-cloud-concepts)._
+> *If you already have all of these programs, please skip this step.*
 - Have [Git](https://git-scm.com/), [Visual Studio Code](https://code.visualstudio.com/) and [GitHub Desktop](https://desktop.github.com) installed on your device.
 - An [Azure](https://azure.microsoft.com/en-us/free/) account.
     - If you don't have your Azure account yet and you are a student, go to the following [link](https://azure.microsoft.com/es-mx/free/students/) to get your credits and free student account in Azure. 
@@ -29,8 +30,7 @@ Below, we share with you the agenda for this adventure.
 | 3 |  Assistive Technology  | Have you ever wondered what technologies are available to people with disabilities? You will find out in this lesson. | [Click here](./a11y/AssistiveTech.md)  |
 | 4 | Semantic HTML | You will learn about the importance of having a Semantic HTML, its benefits and how you can include it in your website. | [Click here](./a11y/SemanticHTML.md)  |
 | 5 | ARIA | You will learn about ARIA and how you can incorporate it into your websites. | [Click here](./a11y/Aria.md)  |
-| 6 | Azure | Here you will learn what you need to know about Azure for this project. | [Click here](./a11y/Azure.md)  |
-| 7 | Hands-on! (Step-by-step) | Create your accessible portfolio and upload it to the cloud with all the tools you have learned so far! | [Click here](./a11y/HandsOn.md)  |
+| 6 | Hands-on! (Step-by-step) | Create your accessible portfolio and upload it to the cloud with all the tools you have learned so far! | [Click here](./a11y/HandsOn.md)  |
 
 Are you ready for our journey to a more accessible world? Let's begin! [First lesson: What is Accessibility?](./a11y/A11y.md) 
 
