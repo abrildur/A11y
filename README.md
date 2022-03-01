@@ -43,14 +43,14 @@ With love from Mexico ♥️
 ![Dancing cat with a Mexican Hat - gif](https://media.giphy.com/media/TN0kjxBsz3iXm/giphy.gif)
 
 ---
+
 ## Bibliographic References and Articles of Interest
 - [Microsoft Learn - Accessibility fundamentals](https://docs.microsoft.com/en-us/learn/paths/accessibility-fundamentals/)
-- [Microsoft Learn - Introduction to disability and accessibility (INGLES)](https://docs.microsoft.com/en-us/learn/modules/intro-accessibility-disability/00-what-is-accessibility)
+- [Microsoft Learn - Introduction to disability and accessibility](https://docs.microsoft.com/en-us/learn/modules/intro-accessibility-disability/00-what-is-accessibility)
 - [Microsoft - AI for Accessibility Projects](https://www.microsoft.com/en-us/ai/ai-for-accessibility-projects)
-- [Microsoft - Text to Speech](https://azure.microsoft.com/es-mx/services/cognitive-services/text-to-speech/#overview)
-- [Microsoft Learn - What is Inclusion? - (INGLES)](https://docs.microsoft.com/en-us/learn/modules/intro-accessibility-disability/02-what-is-inclusion)
-- [Microsoft - Funciones de accesibilidad de Microsoft](https://www.microsoft.com/es-mx/accessibility/features?rtc=1&activetab=pivot_1:primaryr2)
-- [Microsoft - Accessibility (INGLES)](https://www.microsoft.com/en-us/accessibility)
-- [Organización Mundial de la Salud - Discapacidad y salud (INGLES)](https://www.who.int/news-room/fact-sheets/detail/disability-and-health)
-- [Assistive Technology Industry Association (INGLES)](https://www.atia.org/at-resources/what-is-at/#what-is-assistive-technology)
+- [Microsoft - Text to Speech](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/)
+- [Microsoft Learn - What is Inclusion? ](https://docs.microsoft.com/en-us/learn/modules/intro-accessibility-disability/02-what-is-inclusion)
+- [Microsoft - Accessibility](https://www.microsoft.com/en-us/accessibility)
+- [World Health Organization - Disability and health ](https://www.who.int/news-room/fact-sheets/detail/disability-and-health)
+- [Assistive Technology Industry Association](https://www.atia.org/at-resources/what-is-at/#what-is-assistive-technology)
 - [Microsoft Learn - Discuss different types of cloud models](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/types-of-cloud-computing)
