@@ -9,8 +9,6 @@ Now that you've learned about accessibility, including its basic concepts, inclu
 ## My portafolio
 Within this repository you will find a portfolio template ready for you to add your projects and your social networks. It is created using HTML, CSS, and JavaScript.
 
-# !!!!!!!!inserta imagen de como se ve la pagina
-
 1.  The first thing you should do is to clone this repository to your device.
   ```
   git clone https://github.com/abrildur/A11y.git
