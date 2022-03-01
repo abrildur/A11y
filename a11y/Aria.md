@@ -1,46 +1,32 @@
 # ARIA: Accessible Rich Internet Applications
-
-> *Lo mas importante de la accesibilidad es que les estamos dando una experiencia igual o más igual que podamos a personas que esten usando tecnologias asistivas.*
-
-!!!!! idea para el canva Los roles le comunican al navegadores cuales son las interacciones que debería esperar y cómo se va a usar este objeto en nuestro proyecto. Se usan en situaciones muy especificas, es mejor depender del HTML semántico para comunicar los roles.
-
 > *The most important thing about accessibility is that we are giving an equal or more equal experience as we can to people who are using assistive technologies.*
 
-
 Accessible Rich Internet Applications (ARIA) is a set of attributes that define ways to make web content and web applications (especially those developed with JavaScript) more accessible to people with disabilities.
-
-Fue creado por la WAI (Web Accessibility Initiative), ellos son los encargados de la especificacion de ARIA y la crearon para que podamos comunicar cambios especiales en nuestras aplicaciones.
 
 It was created by the WAI (Web Accessibility Initiative), they are in charge of the ARIA specification and they created it so that we can communicate special changes in our applications.
 
 ---
 
-## Atributos de ARIA
+## ARIA Attributes
 ARIA has **three special attributes** that we can add to HTML: **_roles, properties, and states_**. Next, we will describe each of the attributes.
 
-- **Roles**
-    - Define el tipo general del objeto (como un articulo, una alerta o un deslizador)
-    - Le comunican al navegador cuales son las interacciones que deberian esperar y como se va usar ese objeto dentro de nuestra pagina o dentro de nuestra aplicacion.
-    - **Los roles SOLO se usan en situaciones muy especificas**, es mejor que dependas del HTML semantico para comunicar los roles y no meterte a asignarle roles a cada uno de los elementos, ya que es una especificacion muy dificil de usar y hay que saber cuando son los momentos apropiados.
-    ** Se usan en ocasiones especiales es mejor usar HTML semántico para no meterse en agregar roles a todos los elementos
-
-    - Los roles comunican diferentes interacciones a navegadores y lectores de pantalla de como se navega en esa sección. 
-        - Los navegadores y especialmente los lectores de pantalla, navegan diferentes roles en diferentes estilos.
-    - Un articulo, un lector de pantalla no esperara mucha interaccion del usuario a comparacion de un formulario en el cual tiene diferentes metodos para esperar esa interaccion y para manejarla cuando pasa.
+**Roles**
+- These attributes tell the browser what interaction is expected and how the object will be used on our page or in our application.
+        - Defines the general type of the object (such as an article, an alert or a slider).
+    - **It is better to rely on semantic HTML** to communicate the roles rather than assigning roles to each of the elements, since **it is a difficult specification to use and you need to know when is appropriate**.
+    - In general, **they should be used only on special occasions**, and semantic HTML should be used instead of adding roles to each element.
+    - Browsers and screen readers are given different interactions based on the role they play in that section. 
+    - The screen reader will not expect much interaction from the user when reading an article as opposed to a form which has different methods to deal with interaction when it occurs.
 
 
- > En tu portafolio no utilizaremos roles, sin embargo, si quieres saber mas sobre los tipos de roles que se pueden especificar en Aria, [haz click aquí](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles).
+ > We will not use roles in your portfolio; however, if you're interested in knowing more about the types of roles that can be specified in Aria, [click here](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles).
 
-Resumen: the ARIA roles preparan al navegador o lectores de pantalla a indicar cuales son las interacciones que debería esperar, se usan en ocasiones especiales, en la mayoría de los casos se recomienda usar HTML semántico,
-
----
-
-- **Propiedades**
-    - Utilizamos con más frecuencia este atributo de ARIA.
-    - Le comunican al navegador diferentes propiedades.
-    - Comunican atributos que son escenciales para el comportamiento o significado de un elemento pero que se suelen comunicar visualmente.
-        - Los iconos, formularios, slideshows, entre otros, necesitan las propiedades ARIA que describan dichos elementos y sus funcionamientos.    
-        - Esto puede ser común (formularios) para una persona que cuenta con todas sus capacidades físicos, pero para una persona con discapacidades no es tan intuitivo, ya que ellos dependen de los lectores de lectura.
+**Properties**
+- We use this ARIA attribute more frequently.
+    - They communicate different properties to the browser.
+    - In general, they communicate attributes that are essential to the behavior or meaning of an element, but are typically communicated visually.
+        - ARIA properties describe various elements and their functions, such as icons, forms, and slideshows.    
+        - The forms may be common to someone who has full physical capabilities, but for someone with disabilities, they are not so intuitive, since they rely on reading readers.
 
 ```HTML
     <!--Example -->
@@ -50,14 +36,14 @@ Resumen: the ARIA roles preparan al navegador o lectores de pantalla a indicar c
         </form>
 ```
 
-- **Estados**
-    - Comunican estados y cambios de estados en elementos que se suelen comunicar visualmente.
-       - Si tenemos un checkbox
-            - Sabemos que esta seleccionado por que está marcado
-            - Alguien con discapacidad quizás no pueda ver eso
 
-    - Los lectores de pantalla leen todos los elementos que tenemos en nuestro HTML incluyendo los que tenemos escondidos a simple vista.
-        - Por lo cual hay que usar aria-hidden para que de esta manera el lector de pantalla tenga la misma experiencia que tiene las demas personas.
+- **States**
+    - The elements they communicate provide information about states and state changes that are usually communicated visually.
+       - Suppose we have a checkbox:
+            - It has a visual indication that it has been selected
+            - People with vision disabilities may not be able to see those visual marks
+
+    - Screen readers are able to read every element in our HTML, even those that are hidden.
         - Therefore, aria-hidden should be used so that the screen reader has the same experience as other people have.
 
   ```HTML
@@ -69,15 +55,14 @@ Resumen: the ARIA roles preparan al navegador o lectores de pantalla a indicar c
     ```
 
 ## Summary 
+An **ARIA role** prepares the browser or screen reader to understand which interactions to expect. They are used only on rare occasions, and in most cases semantic HTML is recommended.
 
 We can provide a similar experience to users with disabilities as well as users who have all the physical benefits, using statuses which will communicate what things will be displayed on the screen.
-
-Podemos brindar una experiencia similar a usuarios con discapacidades al igual que usuarios que tienen todos los beneficios físicos, usando estados los cuales comunicarán que cosas se estarán mostrando en pantalla
 
 ---
 ## ARIA attribute types
 
-There are 4 categories of ARIA states and properties:
+States and properties in the ARIA are divided into four categories, and we will explain some attributes of each category that you might use in your portfolio:
 
 1 -  **Widget attributes**
 
@@ -97,15 +82,33 @@ There are 4 categories of ARIA states and properties:
         - The aria-expanded attribute is set on an element to indicate if a control is expanded or collapsed, and whether or not its child elements are displayed or hidden.
 
     - aria-hidden
+        - attribute can be used to hide non-interactive content from the accessibility API.
+
     - aria-invalid
+        - state indicates the entered value does not conform to the format expected by the application.
+
     - aria-label
+        - attribute defines a string value that labels an interactive element.
+
     - aria-placeholder
+        - attribute defines a short hint (a word or short phrase) intended to help the user with data entry when a form control has no value.
+        - The hint can be a sample value or a brief description of the expected format.
+
     - aria-pressed
+        -  attribute indicates the current "pressed" state of a toggle button.
+
     - aria-readonly
+        - attribute indicates that the element is not editable, but is otherwise operable.
+
     - aria-required
-    - aria-selected 
+        - attribute indicates that user input is required on the element before a form may be submitted.
+
+    - aria-selected
+        - attribute indicates the current "selected" state of various widgets.
+
     - aria-sort
-    - etc... 
+        - attribute indicates if items in a table or grid are sorted in ascending or descending order.
+    - etc...
 
 2 - **Live region attributes**
 
@@ -127,9 +130,9 @@ There are 4 categories of ARIA states and properties:
     - aria-colspan
     - etc ...
 
-If you would like to learn more about each properties and states, [please click here](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes#aria_attribute_types).
+### If you would like to learn more about each properties and states, [please click here](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes#aria_attribute_types).
 
----
+
 
 ## Interesting resources
 - [Videos of screen readers using ARIA](https://zomigi.com/blog/videos-of-screen-readers-using-aria-updated/)
@@ -137,6 +140,13 @@ If you would like to learn more about each properties and states, [please click 
 - [Improving form accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/forms)
 - [Etiquetas y relaciones de ARIA](https://developers.google.com/web/fundamentals/accessibility/semantics-aria/aria-labels-and-relationships)
 - [HTML 'label' for Attribute](https://www.w3schools.com/tags/att_label_for.asp)
+
+---
+
+# You're done! it's time to [create your portfolio!](./HandsOn.md)
+
+![Aladdin's movie gif - Showtime ](https://media.giphy.com/media/cIh8DK7Or9BpI926WJ/giphy.gif)
+
 ## Bibliographic references
 - [MDN Web Docs - ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 - [MDN Web Docs - ARIA states and properties](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes)
